@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-Hi! This is my personal portfolio website that I built using HTML5 and CSS5.  
+Hi! This is my personal portfolio website that I built using HTML5 and CSS3.  
 I created this project to practice my frontend skills and to have a place where I can showcase my work.
 
 # What’s inside
